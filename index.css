@@ -1,8 +1,21 @@
 body
 {
-    background-color : grey;
-    background-image : url("https://wx3.sinaimg.cn/large/87efcdd5ly1flmlssrqt0j21kw29p7qo.jpg");
-    background-position : left top;
-    background-repeat : no-repeat;
-    background-size : 100%;
+    margin: 200px 100px;
+    background-color: black;
+}
+h1
+{
+    text-align: center;
+}
+a
+{
+    text-decoration: none;
+    background-color: black;
+    color: grey;
+    padding: 0 20px;
+    border: 3px solid black;
+}
+a:hover
+{
+    color: white;
 }

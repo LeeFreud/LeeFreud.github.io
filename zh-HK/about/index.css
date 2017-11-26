@@ -1,0 +1,30 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+ul.nav
+{
+    list-style-type: none;
+    float: top;
+    margin: 0px;
+    padding: 0px;
+}
+li.nav
+{
+    float: left;
+    padding: 16px;
+    background-color: black;
+    color: grey;
+}
+a.nav
+{
+    color: grey;
+    display: block;
+    text-decoration: none;
+}
+a.nav:hover
+{
+    color: white;
+}
