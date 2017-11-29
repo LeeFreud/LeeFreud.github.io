@@ -1,30 +1,39 @@
 body
 {
-    margin: 0px;
-    padding: 0px;
-    background-color: black;
+    font-size: 100%;
 }
 ul.nav
 {
-    list-style-type: none;
-    float: top;
-    margin: 0px;
-    padding: 0px;
+    list-style: none;
+    height: 4rem;
+}
+a.nav
+{
+    font-size: 2rem;
+    font-family: serif;
+    color: black;
+    text-decoration: none;
+    padding: 1rem;
+}
+a.nav:hover
+{
+    border-bottom: 2px solid black;
 }
 li.nav
 {
     float: left;
-    padding: 16px;
-    background-color: black;
-    color: grey;
 }
-a.nav
+p.content
 {
-    color: grey;
-    display: block;
+    font-family: serif;
+    margin-left: 3rem;
+}
+a.jiecao_link
+{
     text-decoration: none;
+    color: black;
 }
-a.nav:hover
+a.jiecao_link:hover
 {
-    color: white;
+    border-bottom: 1px solid black;
 }
