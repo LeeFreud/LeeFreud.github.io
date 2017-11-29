@@ -15,6 +15,10 @@ a.nav
     text-decoration: none;
     padding: 1rem;
 }
+a.now
+{
+    border-bottom: 2px solid black;
+}
 a.nav:hover
 {
     border-bottom: 2px solid black;
