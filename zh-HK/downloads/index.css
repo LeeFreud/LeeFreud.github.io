@@ -5,8 +5,7 @@ body
 ul.nav
 {
     display: block;
-    float: top;
-    max-width: 18rem;
+    width: 18rem;
     list-style: none;
     height: 4rem;
     margin-left: auto;
