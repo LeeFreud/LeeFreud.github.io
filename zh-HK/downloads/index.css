@@ -6,7 +6,6 @@ ul.nav
 {
     display: block;
     float: top;
-    max-width: 60rem;
     max-width: 18rem;
     list-style: none;
     height: 4rem;
