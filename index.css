@@ -10,3 +10,7 @@ a:link, a:visited, a:hover, a:active
     text-decoration: none;
     color: #eeedf0;
 }
+article
+{
+    font-size: 20px;
+}
